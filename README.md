@@ -2,4 +2,4 @@
 
 This is my first repo
 <br>
-Author : Utkarsh Patil
+Author : Utkarsh Patil (Web Developer)
